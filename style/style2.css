@@ -6,3 +6,11 @@ div.two{
   width: 100%;
   height: 100%;
 }
+body.motdoux{
+     text-align: center;
+     margin-top: 200px;
+     font-size: 150px;
+     font-weight: bolder;
+     background-image: url(img/coeur.gif);
+     background-size: 80%;
+}
