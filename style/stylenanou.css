@@ -21,7 +21,7 @@
 .texte-bas{
     font-size: 4rem;
     font-style: italic;
-    line-height: 0%;
+    line-height: 100%;
 }
 div.bas{
     background-image: url(../img/bandeaucoeur.jpg);
