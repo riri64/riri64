@@ -24,7 +24,7 @@
     line-height: 0%;
 }
 div.bas{
-    background-image: url(img/bandeaucoeur.jpg);
+    background-image: url(../img/bandeaucoeur.jpg);
 }
 div.bouton1{
     display: flex;
