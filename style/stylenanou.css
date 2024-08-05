@@ -32,10 +32,11 @@ div.bouton1{
     justify-content: center;
 }
 .bouton {
+    width: 200px;
     border: 0;
     line-height: 1.5;
     padding: 0 20px;
-    font-size: 1rem;
+    font-size: 2rem;
     text-align: center;
     color: #fff;
     text-shadow: 1px 1px 1px #000;
