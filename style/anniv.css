@@ -1,0 +1,40 @@
+div.haut{
+  background-image: url(img/coeurlaine.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0%;
+}
+.haut{
+  text-align: center;
+  font-size: 4rem;
+}
+.texte-milieu{
+  text-align: center;
+  font-size: 3.5rem;
+  font-style: italic;
+}
+.autre{
+  text-align: center;
+  font-size: 4rem;
+  line-height: 0.5rem;
+}
+div.milieu{
+  align-items: start;
+  justify-content: space-between;
+  display: flex;
+}
+div.bas{
+  font-size: 4rem;
+  font-weight:bold;
+}
+.special{
+  text-align: center;
+  font-size: 4.5rem;
+  color: #800000;
+  border: 3px red solid;
+  
+}
+.cadeau{
+  font-style: italic;
+  font-size: 2rem;
+}
